@@ -312,7 +312,7 @@ background: var(--white-smoke);
      .cng-navbar .nav-link{
          color: var(--night-rider);
     }
-    .feature{
+    .feature .row{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         align-items: center;
